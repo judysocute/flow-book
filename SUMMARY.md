@@ -21,4 +21,5 @@
 * [.flowconfig \[ignore\]](setting/.flowconfig-ignore.md)
 * [.flowconfig \[untyped\]](setting/.flowconfig-untyped.md)
 * [.flowconfig \[declarations\]](setting/.flowconfig-declarations.md)
+* [.flowconfig \[lib\]](setting/.flowconfig-lib.md)
 
